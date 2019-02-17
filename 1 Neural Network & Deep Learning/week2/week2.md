@@ -51,7 +51,7 @@
     - [x] $(n_x, m)$
     - [ ] $(m,n_x)$
 
-    <font color=red>每个输入作为一列。</font>
+    <font color=red>**每个输入作为一列。**</font>
     
 
 
@@ -88,7 +88,7 @@
     - [ ] c = a.T + b.T
     - [ ] c = a.T + b
 
-    <font color=red>最终的结果是(3, 4)，答案就比较明显了</font>
+    <font color=red>**最终的结果是(3, 4)，答案就比较明显了**</font>
 
 9. Consider the following code:
 
@@ -107,7 +107,7 @@
 
 10. Consider the following computation graph.
     
-    ![](week2-1.png)
+    ![](images/week2-1.png)
 
     What is the output J?
 

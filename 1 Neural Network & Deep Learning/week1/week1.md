@@ -11,7 +11,7 @@
     - [x] We have access to a lot more data.
 3. Recall this diagram of iterating over different ML ideas. Which of the statements below are true? (Check all that apply.)
    
-    ![](week1-1.png)
+    ![](images/week1-1.png)
     - [x] Being able to try out ideas quickly allows deep learning engineers to iterate more quickly.
    - [x] Faster computation can help speed up how long a team takes to iterate to a good idea.
    - [ ] It is faster to train on a big dataset than a small dataset.
@@ -23,7 +23,7 @@
 
 5. Which one of these plots represents a ReLU activation function?
    
-   ![](week1-2.png)
+   ![]images/(week1-2.png)
 
 6. Images for cat recognition is an example of “structured” data, because it is represented as a structured array in a computer. True/False?
     - [ ] True
@@ -41,7 +41,7 @@
 
 9. In this diagram which we hand-drew in lecture, what do the horizontal axis (x-axis) and vertical axis (y-axis) represent?
 
-    ![](week1-3.png)   
+    ![](images/week1-3.png)   
     
     - [x] x-axis is the amount of data, y-axis (vertical axis) is the performance of the algorithm.
 
