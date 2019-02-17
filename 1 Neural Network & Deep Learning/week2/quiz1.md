@@ -107,7 +107,7 @@
 
 10. Consider the following computation graph.
     
-    ![](images/week2-1.png)
+    ![](images/quiz1-1.png)
 
     What is the output J?
 
