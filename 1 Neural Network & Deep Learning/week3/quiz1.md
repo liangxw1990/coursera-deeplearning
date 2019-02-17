@@ -1,9 +1,9 @@
 1. Which of the following are true? (Check all that apply.)
     - [ ] $X$ is a matrix in which each row is one training example.
-    - [ ] $a^{[2](12)}$ denotes activation vector of the $12^{th}$ layer on the $2^{nd}$ training example.
-    - [ ] $a^{[2]}_4$ is the activation output of the $2^{nd}$ layer for the $4^{th}$ training exampe
-    - [x] $a^{[2]}_4$ is the activation output by the $4^{th}$ neuron of the of $2^{nd}$ layer
-    - [x] $a^{[2](12)}$ denotes the activation vector of the $2^{nd}$ layer for the $12^{th}$ training example
+    - [ ] $a^{[2](1 2)}$ denotes activation vector of the $12^{th}$ layer on the $2^{nd}$ training example.
+    - [ ] $a^{[2]}_ 4$ is the activation output of the $2^{nd}$ layer for the $4^{th}$ training exampe
+    - [x] $a^{[2]}_ 4$ is the activation output by the $4^{th}$ neuron of the of $2^{nd}$ layer
+    - [x] $a^{[2](1 2)}$ denotes the activation vector of the $2^{nd}$ layer for the $12^{th}$ training example
     - [x] $X$ is a matrix in which each column is one training example
     - [x] $a^{[2]}$ denotes the activation vector of the $2^{nd}$ layer
 
